@@ -440,6 +440,10 @@ input:focus {
     border: solid 2.5px #b0b0b0;
 }
 
+textarea:focus {
+    border: solid 2.5px #b0b0b0;
+}
+
 .input_item::placeholder {
     opacity: .5;
 }
